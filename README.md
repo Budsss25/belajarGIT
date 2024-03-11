@@ -8,4 +8,3 @@ Daftar tugas / branch
  7. Tugas-finalProject
  
  Daftar perintah GiT
-# belajarGIT
